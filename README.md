@@ -37,11 +37,13 @@ The script will inject standard styling for these elements.  To suppress this an
    </div>
 </div>
 ```
+###Embedding in other CMS systems
+We have also created modules for some popular Content Management Systems, to make embedding the dial easier for users without needing to edit code.  Links to come... 
 
 ###Further information
-You can see a library of dials created by other businesses at [https://trusteddata.co.nz/dial-library]
+You can see a library of dials created by other businesses at https://trusteddata.co.nz/dial-library
 
-Please log bugs to [https://github.com/Parhelion-NZ/data-dial-js]
+Please log bugs to https://github.com/Parhelion-NZ/data-dial-js
 
 For further assistance contact colin@parhelion.co.nz
 
